@@ -2,5 +2,7 @@
 __pycache__/
 catboost_info/
 
+model_*/
+
 *.Identifier
 
